@@ -1,3 +1,7 @@
+**COFFEE SALES ANALYSIS DASHBOARD**
+![starbucks coffee](https://github.com/user-attachments/assets/89b823cf-183c-484a-a607-462142bbc582)
+
+
 **🧭 Project Overview :**
 
 This dashboard has been developed to provide a comprehensive operational overview of our three coffee store locations. It is designed to support strategic discussions with senior management, with the primary goal of optimizing performance, enhancing customer experience, and improving resource allocation across all stores.
@@ -32,3 +36,6 @@ Sales of branded clothing at the Hell’s Kitchen location are notably lower tha
 **🧵 Strategic Narrative**
 
   This dashboard tells a story of growth, opportunity, and refinement. While our core offerings continue to thrive, there are clear signals for operational fine-tuning. By aligning our resources with customer behavior—both daily and seasonally—we can drive efficiency and elevate the customer experience. The insights presented here serve as a foundation for data-backed decision-making and long-term strategic planning.
+
+**DASHBOARD**
+<img width="716" height="335" alt="Dashboard" src="https://github.com/user-attachments/assets/01518350-5215-4fe8-8550-26898428ccfc" />
